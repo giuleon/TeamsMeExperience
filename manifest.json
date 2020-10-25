@@ -1,0 +1,47 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.7",
+    "version": "1.0.0",
+    "id": "679b0de2-2495-464d-a745-522e52561b50",
+    "packageName": "com.contoso.me",
+    "developer": {
+        "name": "Contoso",
+        "websiteUrl": "https://www.contoso.com",
+        "privacyUrl": "https://www.contoso.com/privacy",
+        "termsOfUseUrl": "https://www.contoso.com/tou"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "Me",
+        "full": "My Personal Space in Teams"
+    },
+    "description": {
+        "short": "Me",
+        "full": "My Personal Space in Teams"
+    },
+    "accentColor": "#F9F9FA",
+    "staticTabs": [
+        {
+            "entityId": "001",
+            "name": "Itranet",
+            "contentUrl": "https://giulianodemo.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=/SitePages/My-Personal-Space.aspx",
+            "scopes": [
+                "personal"
+            ]
+        }
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ],
+    "validDomains": [
+        "giulianodemo.sharepoint.com"
+    ],
+    "webApplicationInfo": {
+        "id": "00000003-0000-0ff1-ce00-000000000000",
+        "resource": "https://giulianodemo.sharepoint.com"
+    }
+}
