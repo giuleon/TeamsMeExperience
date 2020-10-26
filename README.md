@@ -6,3 +6,6 @@ This is an example of Me experience in Microsoft Teams where you can have a pers
 
 📺check my YouTube Video tutorial to follow a step-by-step guide:
 https://youtu.be/fffyVKlpIjA
+
+🔗Microsoft article about the Me-Experience:
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-me-experience
