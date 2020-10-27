@@ -26,7 +26,7 @@
     "staticTabs": [
         {
             "entityId": "001",
-            "name": "Itranet",
+            "name": "Intranet",
             "contentUrl": "https://giulianodemo.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=/SitePages/My-Personal-Space.aspx",
             "scopes": [
                 "personal"
